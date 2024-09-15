@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I'm Farah!
+💭 Currently learning about cyber security and cloud computing
 
-<!--
-**farah-bot/farah-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farah-bot" alt="farah-bot" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farah-bot&show_icons=true&locale=en" alt="farah-bot" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farah-bot&show_icons=true&locale=en&layout=compact" alt="farah-bot" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
