@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Farah!
-💭 Currently learning about web and cloud computing
+💭 Currently learning about web, mobile and cloud computing
 
 
 ## 📊 GitHub Stats
